@@ -110,7 +110,3 @@ Recommended workflow:
 - Scaling models and datasets
 
 ---
-
-## License
-
-MIT License (or specify as needed)
